@@ -13,9 +13,9 @@ public class MainActivity extends AppCompatActivity {
     }
 
 
-    private void test(){
+    private void testMaster(){
 
-        String test = "test";
+        String master = "Master";
 
     }
 
